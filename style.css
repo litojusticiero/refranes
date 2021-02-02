@@ -1,0 +1,58 @@
+body{
+    font-size: 150%;
+}
+h1{
+    border: 5px solid black;
+    text-align: center;
+    font-size: 200%;
+}
+section.rojo1{
+
+    border-top: red 7px solid;
+    border-left: red 7px solid;
+}
+p.rojo1{
+    border-top: red 7px solid;
+    border-left: red 7px solid;
+    margin-top: 6px;
+    margin-left: 6px;
+}
+section.azul1{
+    border-top: blue dashed 5px;
+    border-right: green dashed 10px;
+    border-left: 40px solid green;
+    border-bottom: 20px dashed blue;
+}
+section.amarillo1{
+    border-color: gold;
+    border-width: 15px 4px;
+    border-style: solid;
+    padding: 5px;
+    margin-top: 30px;
+}
+p.amarillo1{
+    border-color: gold;
+    border-width: 15px 4px;
+    border-style: solid;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+section.verde1{
+    margin-top: 20px;
+    border-top:lime 1em solid;
+    border-bottom: blue 1em solid;
+}
+section.rojo2{
+    margin-top: 30px;
+    border-top: red 40px dashed;
+    border-right: black 40px dashed;
+    border-bottom: black 40px dotted;
+    border-left: black 40px dashed;
+}
+section.negro1{
+    margin-top: 30px;
+    border-top: black dotted 10px;
+    border-right: black solid 40px;
+    border-left: red 40px double;
+    border-bottom: black dashed 20px;
+}
